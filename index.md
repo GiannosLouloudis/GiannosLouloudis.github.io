@@ -1,5 +1,4 @@
 ---
-title: Giannos Louloudis
 image: /image/ProfilePicture.jpg
 ---
 
