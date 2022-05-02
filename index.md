@@ -1,9 +1,3 @@
----
-image: /image/ProfilePicture.jpg
----
-
-![]({{ page.image | relative_url }})
-
 ## **Curriculum Vitae**
 
 e-mail: giannos.louloudis@gmail.com \
