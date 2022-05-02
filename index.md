@@ -30,41 +30,26 @@ After my first year of MSc studies, I applied for and became a teaching assistan
 |:--------------------------------------------|:------------------|:------------------------------------|
 | Introduction to Python for Data Science     | Block 1           | Python, BASH                        |
 | Introduction to Python for Computer Science | Block 2           | Python, BASH                        |
-| Introduction to Data Science                | Block 3           | Statistics, ML algorithms, Python   |
+| Introduction to Data Science                | Block 3           | Python, Statistics, ML algorithms   |
 
+## **Education**
 
-You can use the [editor on GitHub](https://github.com/GiannosLouloudis/GiannosLouloudis.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+These are the courses that I selected from my **Master's programme**, along with their corresponding grade. The grades are written in the Danish 7-point grading system:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Computer Science:
+  * Python programming for data science: 12
+  * Introduction to data science: 12
+  * Statistics for bioinformatics: 10
+  * Machine Learning (DIKU): 7
+* Computational Biology:
+  * Biological sequence analysis: 12
+  * Structural bioinformatics: 10
+  * Bioinformatics project: 12
+  * Bioinformatics of high-throughput analysis: 12
 
-### Markdown
+Regrading my **Bachelor's programme**:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GiannosLouloudis/GiannosLouloudis.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* I have completed a four-year bachelor's degree in Biology at the Aristotle University of Thessaloniki:
+  * My grade average was 8.11/10
+  * I specialized in Molecular Biology, Genetics and Biotechnology.
+* During my degree I did a year-long thesis along with as two-month and a six-month internship (in Turku, Finland).
