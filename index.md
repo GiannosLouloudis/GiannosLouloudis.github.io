@@ -1,3 +1,8 @@
+---
+title: Giannos Louloudis
+image: /image/ProfilePicture.jpg
+---
+
 ![]({{ page.image | relative_url }})
 
 ## CV
