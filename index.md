@@ -1,9 +1,9 @@
-## **Curriculum Vitae**
+## **Contact**
 
 e-mail: giannos.louloudis@gmail.com \
 address: Mariendalsvej 57D, 2000. Frederiksberg, Denmark
 
-### **Personal profile**
+## **Personal profile**
 
 I am 25 years old and I come from Crete, Greece. 
 I have a BSc degree in Biology at the Aristotle University of Thessaloniki.
@@ -13,19 +13,24 @@ During my Bachelor's studies, I focused on bioinformatics, biostatistics, data m
 
 Since the first semester of my Master's studies I have been working as an academic research assistant in the Brunak group in the Center for Protein Research (CPR). During the second year of my MSc I also started working as a Teaching Assistant for Programming and Data Science courses at KU.
 
-### **Work experience**
+## **Work experience**
+
+#### **Academic Research Assistant**
 
 I am currently employed as an academic research assistant in the Brunak group in the Center for Protein Research (CPR). The group focuses on *Translational Disease Systems in Biology*, and I am a member of the *genetics infrastructure sub-group* which focuses on the development of software which is used by the rest of the group. My major projects up to this point have been:
 
-    - Development of an in-house PheWAS-pipeline, along with a local-browser application which visualizes the results post-analysis to aid data exploration. The software utilizes patient gentic data along with patient health records classified in the form of both ICD-10 and PheCodes.
-    - Use of large genetic cohorts such as the Danish Blood Donor Study and Copenhagen Hospital Biobank to find associations between patients' genetic background and covid-19 severity after infection.
+* Development of an in-house PheWAS-pipeline, along with a local-browser application which visualizes the results post-analysis to aid data exploration. The software utilizes patient gentic data along with patient health records classified in the form of both ICD-10 and PheCodes.
+* Use of large genetic cohorts such as the Danish Blood Donor Study and Copenhagen Hospital Biobank to find associations between patients' genetic background and covid-19 severity after infection.
 
+#### **Teaching Assistant**
 
+After my first year of MSc studies, I applied for and became a teaching assistant for the courses that I had previously taken and was enthusiastic about. This choice was derived from my interest in sharing my enthusiasm with others on topics that fascinated me, but also an indirect goal was developing my abilities to explain complex concepts as efficiently as possible. the courses that I chose were:
 
-
-
-
-
+| Course title                                | Academic period   | Concepts taught                     |
+|:--------------------------------------------|:------------------|:------------------------------------|
+| Introduction to Python for Data Science     | Block 1           | Python, BASH                        |
+| Introduction to Python for Computer Science | Block 2           | Python, BASH                        |
+| Introduction to Data Science                | Block 3           | Statistics, ML algorithms, Python   |
 
 
 You can use the [editor on GitHub](https://github.com/GiannosLouloudis/GiannosLouloudis.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
