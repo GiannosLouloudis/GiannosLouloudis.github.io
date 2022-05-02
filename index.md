@@ -5,7 +5,13 @@ e-mail: giannos.louloudis@gmail.com
 address: Mariendalsvej 57D, 2000. Frederiksberg, Denmark
 
 ### Personal profile
+I am 25 years old and I come from Crete, Greece. 
+I have a BSc degree in Biology at the Aristotle University of Thessaloniki.
+I am currently a second-year international MSc student in the Master’s in Bioinformatics at the department of Science of Copenhagen University (KU).
 
+During my Bachelor's studies, I focused on bioinformatics, biostatistics, data mining and subsequent analyses used in the field. During the first year of my MSc I chose courses to increase my knowledge in statistics and machine learning as well as their application in biology and more specifically genomics. 
+
+Since the first semester of my Master's studies I have been working as an academic research assistant in the Brunak group in the Center for Protein Research (CPR). During the second year of my MSc I also started working as a Teaching Assistant for Programming and Data Science courses at KU.
 
 
 
