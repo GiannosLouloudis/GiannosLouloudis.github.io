@@ -1,3 +1,5 @@
+![]({{ page.image | relative_url }})
+
 ## CV
 e-mail: giannos.louloudis@gmail.com
 address: Mariendalsvej 57D, 2000. Frederiksberg, Denmark
