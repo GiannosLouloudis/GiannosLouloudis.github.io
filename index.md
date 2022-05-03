@@ -34,6 +34,8 @@ After my first year of MSc studies, I applied for and became a teaching assistan
 
 ## **Education**
 
+#### **University studies**
+
 These are the courses that I selected from my **Master's programme**, along with their corresponding grade. The grades are written in the Danish 7-point grading system:
 
 * Computer Science:
@@ -53,3 +55,18 @@ Regrading my **Bachelor's programme**:
   * My grade average was 8.11/10
   * I specialized in Molecular Biology, Genetics and Biotechnology.
 * During my degree I did a year-long thesis along with as two-month and a six-month internship (in Turku, Finland).
+* During 2018-2019 I did my **thesis/dissertation** at the lab of population genetics under the supervision of Alexander Triandafyllidis. The thesis was split into two different and unrelated projects.
+  * The first project involved the development of a custom pipeline for the identification of Single Nucleotide Polymorphisms from New Generation Sequencing, Whole Genome sequencing data of *Canis lupus familiaris* (specifically the breed Cretan tracer). The piece of software I developed, takes as input raw paired end data files and quality checks them, trims if needed, maps them on a provided reference genome, does variant calling (keeping only SNPs) and finally, ends with SNP-filtering.
+    * The SNPs found at the end of the pipeline were compared to those of an online database, and then using a Variant Effect Predictor tool (VEP), I checked how they affected the gene expression.
+  * The other project used a pre-made pipeline, named dDocent, to extract SNPs from population data (both Paired-End and Single-End) from the organisms *Perdix perdix* and *Sparus aurata*.
+
+#### **Internship at HCMR**
+
+* I worked for 2 months at the Hellenic Center of Marine Research in Crete, Greece and focused on developing a pipeline used for mining long non-coding RNAs (lncRNAs) from a pool of transcriptomics data.
+* The lncRNAs found were examined later to check whether they contributed or not on gender determination for each species.
+
+#### **Erasmus+ Internship**
+
+* I completed a six-month long internship at the Turku University in Finland, where along with my supervisor Spiros Papakostas worked on a genomics-transcriptomics project from start to finish.
+* The project focused on locating islands of genomic inversions using custom pipelines that I wrote myself. The goal was to connect those aforementioned islands with genetic divergence between three different species of a rotifer organisms.
+* With the help of my supervisor we are planning on publishing the results on a scientific journal.
