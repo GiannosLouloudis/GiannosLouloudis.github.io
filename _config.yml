@@ -5,8 +5,7 @@ description: Bioinformatics, Software Development, Data Science
 email: giannos.louloudis@gmail.com
 permalink: Giannos Louloudis
 
-class:
-  - bg-light-gray
+bg: light gray
 
 footer_navigation:
   -title: Hello world!
