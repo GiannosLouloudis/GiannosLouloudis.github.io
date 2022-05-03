@@ -3,3 +3,7 @@ logo: ./image/ProfilePicture.jpg
 title: Giannos Louloudis
 description: Bioinformatics, Software Development, Data Science
 email: giannos.louloudis@gmail.com
+
+footer_navigation:
+  -title: Hello world!
+  -url: giannos.louloudis@gmail.com
